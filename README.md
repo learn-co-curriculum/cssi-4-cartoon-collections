@@ -6,7 +6,7 @@ resources: 2
 
 ## Objectives
 
-You're going to get familiar with iterating through arrays.
+You're going to get familiar with iterating through lists.
 
 ## Instructions
 

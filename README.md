@@ -46,7 +46,7 @@ This function should accept a list of planeteer calls, like this:
 planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
 ```
 
-It should then capitalize each element and add an exclamation point at the end. The return value of this function should be an array. Example:
+It should then capitalize each element and add an exclamation point at the end. The return value of this function should be a list. Example:
 
 ```python
 summon_captain_planet(planeteer_calls)

@@ -42,7 +42,7 @@ Once the test for this function is passing, move on to the next function.
 
 ![captain-planet](https://s3-us-west-2.amazonaws.com/web-dev-readme-photos/cartoon-collections/captain-planet.jpeg)
 
-This function should accept an array of planeteer calls, like this:
+This function should accept a list of planeteer calls, like this:
 
 ```python
 planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
@@ -73,6 +73,6 @@ long_planeteer_calls(assorted_words)
 #=> True
 ```
 
-Notice the return value of this function is either `False` or `True`, depending on the array it was given as an argument.
+Notice the return value of this function is either `False` or `True`, depending on the list it was given as an argument.
 
 Checkout the [Python docs on lists](https://docs.python.org/3/tutorial/datastructures.html) for a hint.

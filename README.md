@@ -10,12 +10,11 @@ You're going to get familiar with iterating through lists.
 
 ## Instructions
 
-There are four functions to complete in this lab:
+There are three functions to complete in this lab:
 
 1. Dwarf Roll Call
 2. Summon Captain Planet
 3. Long Planeteer Calls
-4. Find the Cheese
 
 #### Function 1 - Dwarf Roll Call
 

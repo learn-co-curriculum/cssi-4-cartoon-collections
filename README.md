@@ -35,7 +35,6 @@ It should then print out each name using `print`. The print-out should look like
 
 Look into [for loops](https://wiki.python.org/moin/ForLoop) and [enumerate()](https://docs.python.org/3/library/functions.html#enumerate)
 
-Once the test for this function is passing, move on to the next function.
 
 #### Function 2 - Summon Captain Planet
 
@@ -56,7 +55,6 @@ summon_captain_planet(planeteer_calls)
 
 The `map` function or list comprehensions might be appropriate for this task, take a look at them [here](http://www.dotnetperls.com/map) and [here](http://www.dotnetperls.com/list-python).
 
-Once the test for this function is passing, move on to the next function, long planeteer calls.
 
 #### Function 3 - Long Planeteer Calls
 

@@ -61,7 +61,7 @@ Once the test for this function is passing, move on to the next function, long p
 
 #### Function 3 - Long Planeteer Calls
 
-The `long_planeteer_calls` function should accept an array of calls. The function should tell us if any of the calls are longer than four characters. For example:
+The `long_planeteer_calls` function should accept a list of calls. The function should tell us if any of the calls are longer than four characters. For example:
 
 ```python
 short_words = ["puff", "go", "two"]

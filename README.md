@@ -1,8 +1,4 @@
----
-tags: enumerable, iteration
-languages: python
-resources: 2
----
+
 
 ## Objectives
 

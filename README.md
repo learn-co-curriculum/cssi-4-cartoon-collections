@@ -29,7 +29,10 @@ It should then print out each name using `print`. The print-out should look like
 > 3. Bashful
 > 4. Grumpy
 
-Look into [for loops](https://wiki.python.org/moin/ForLoop) and [enumerate()](https://docs.python.org/3/library/functions.html#enumerate)
+Look into enumerate() in for loops on [Stack Overflow] (http://stackoverflow.com/questions/522563/accessing-the-index-in-python-for-loops)
+```
+for i, dwarf in enumerate(dwarves):
+```
 
 
 #### Function 2 - Summon Captain Planet

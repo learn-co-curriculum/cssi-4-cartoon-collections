@@ -72,3 +72,5 @@ long_planeteer_calls(assorted_words)
 Notice the return value of this function is either `False` or `True`, depending on the list it was given as an argument.
 
 Checkout the [Python docs on lists](https://docs.python.org/3/tutorial/datastructures.html) for a hint.
+
+<a href='https://learn.co/lessons/cssi-4-cartoon-collections' data-visibility='hidden'>View this lesson on Learn.co</a>

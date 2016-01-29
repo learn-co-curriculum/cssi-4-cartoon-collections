@@ -73,4 +73,4 @@ Notice the return value of this function is either `False` or `True`, depending 
 
 Checkout the [Python docs on lists](https://docs.python.org/3/tutorial/datastructures.html) for a hint.
 
-<a href='https://learn.co/lessons/cssi-4-cartoon-collections' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-4-cartoon-collections' title='Objectives'>Objectives</a> on Learn.co and start learning to code for free.</p>
